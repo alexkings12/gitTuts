@@ -1,4 +1,5 @@
 function alers(){
-  alert("gays");
+ var a = "string"
+ console.log(a);
 }
 alers();
