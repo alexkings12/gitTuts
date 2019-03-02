@@ -1,0 +1,6 @@
+var obj = '{
+  "name": 1,
+   "number": "first"
+}'
+
+obj = JSON.parse(obj);
